@@ -24,24 +24,25 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2020 - Present: Research Assistant
+  Kulkarni Lab, University of California, Davis
+  * Investigated CO2 adsorption in zeolite under humid environment using theoretical modeling
+  * Predicted molecular behaviors in zeolites by applying atomic simulation environment (ASE) in python programming
+  * Performed density functional theory (DFT) and Ab-initio molecular dynamics (AIMD) calculations using VASP code in a high-performance computing (HPC ) to study CO2 adsorption in zeolite
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2018 – July 2020: Research Assistant
+  DeForest Lab, University of Washington, Seattle
+  * Investigated gel materials whose stiffness can be reversibly controlled by the addition of administrative antibiotics
+  * Designed a synthetic approach for our novel protein-based biomaterials from gene sequencing
+  * Examined biomaterials viscoelastic properties and tested their antibiotics response on rheometer
+  * Characterized the synthesized protein on mass spectroscopy
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming and computer skills: Python, Matlab, Atomic Simulation Environment (ASE), Vienna Ab initio Simulation (VASP), High Performance Computing (HPC)
+* Wet lab skills: molecular biology techniques, cell culture, protein purification, HPLC, rheometer, mass spectroscopy
+* Languages: professional written and oral fluency in Mandarin and English
+
 
 Publications
 ======
