@@ -25,13 +25,13 @@ Education
 Work experience
 ======
 * September 2020 - Present: Research Assistant
-  Kulkarni Lab, University of California, Davis
+  * Kulkarni Lab, University of California, Davis
   * Investigated CO2 adsorption in zeolite under humid environment using theoretical modeling
   * Predicted molecular behaviors in zeolites by applying atomic simulation environment (ASE) in python programming
   * Performed density functional theory (DFT) and Ab-initio molecular dynamics (AIMD) calculations using VASP code in a high-performance computing (HPC ) to study CO2 adsorption in zeolite
 
 * November 2018 – July 2020: Research Assistant
-  DeForest Lab, University of Washington, Seattle
+  * DeForest Lab, University of Washington, Seattle
   * Investigated gel materials whose stiffness can be reversibly controlled by the addition of administrative antibiotics
   * Designed a synthetic approach for our novel protein-based biomaterials from gene sequencing
   * Examined biomaterials viscoelastic properties and tested their antibiotics response on rheometer
