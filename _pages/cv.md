@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Chemical Engineering, University of California Davis, CA, expected June 2024
+  * Advisor: Ambarish Kulkarni
+  * Project: Atomistic Simulations and Data Science for CO2 reduction Applications
+
+* Master of Science in Chemical Engineering, University of Washington, WA, July 2020
+  * Advisor: Cole A. DeForest
+  * Thesis: Pharmacological-based Regulation of Protein-Polymer Hydrogel Stiffness
+
+* Bachelor of Science in Chemical Engineering, National Taiwan University, Taipei, June 2017
+
 
 Work experience
 ======
