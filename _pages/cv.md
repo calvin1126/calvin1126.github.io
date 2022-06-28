@@ -62,8 +62,8 @@ Teaching
   * Designed with the instructor the new python programming online synchronous and asynchronous teaching modules during COVID 19 pandemic
   * Organized independently discussion sessions, helped grade weekly homework and held office hour
   * Course:
-    * Engineering Problem Solving using Python (Spring 2021)
     * Thermodynamics (Winter 2022)
+    * Engineering Problem Solving using Python (Spring 2021)
 
 * **Teaching Assistant**, Department of Biology, University of Washington, Seattle
   * Led independently the general biology experiment class weekly to instruct 48 sophomore students. 
