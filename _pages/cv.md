@@ -59,21 +59,21 @@ Presentations
 Teaching
 ======
 * **Teaching Assistant**, Department of Chemical Engineering, University of California, Davis
-  * Designed with the instructor the new python programming online synchronous and asynchronous teaching modules during COVID 19 pandemic
-  * Organized independently discussion sessions, helped grade weekly homework and held office hour
-  * Course:
+  * Courses:
     * Thermodynamics (Winter 2022)
     * Engineering Problem Solving using Python (Spring 2021)
+  * Designed with the instructor the new python programming online synchronous and asynchronous teaching modules during COVID 19 pandemic
+  * Organized independently discussion sessions, helped grade weekly homework and held office hour
 
 * **Teaching Assistant**, Department of Biology, University of Washington, Seattle
-  * Led independently the general biology experiment class weekly to instruct 48 sophomore students. 
-  * Mentored 24 senior undergraduate students molecular biology lab techniques. 
-  * Cooperated with professors to hold general biology class with 800+ undergraduate students. 
-  * Brainstormed weekly quiz questions, managed class Canvas website and held weekly office hours. 
-  * Course:  
+  * Courses:  
     * Introductory Biology (Winter 2020)  
     * Laboratory Techniques in Cell and Molecular Biology (Fall 2019; Spring 2020)
-
+  * Led independently the general biology experiment class weekly to instruct 48 sophomore students
+  * Mentored 24 senior undergraduate students molecular biology lab techniques
+  * Cooperated with professors to hold general biology class with 800+ undergraduate students
+  * Brainstormed weekly quiz questions, managed class Canvas website and held weekly office hours
+  * 
 
 Service and leadership
 ======
