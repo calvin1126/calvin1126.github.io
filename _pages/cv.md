@@ -73,7 +73,7 @@ Teaching
   * Mentored 24 senior undergraduate students molecular biology lab techniques
   * Cooperated with professors to hold general biology class with 800+ undergraduate students
   * Brainstormed weekly quiz questions, managed class Canvas website and held weekly office hours
-  * 
+
 
 Service and leadership
 ======
