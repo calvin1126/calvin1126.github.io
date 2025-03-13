@@ -2,19 +2,19 @@
   "general information": {
     "name": "Kun-Lin (Calvin) Wu",
     "label": "Scientist",
-    "//image": "",
+    "image": "",
     "email": "klwu1126@gmail.com",
-    "//phone": "",
-    "//url": "",
+    "phone": "",
+    "url": "",
     "summary": "A research scientist with a passion in using data to solve real-world problems. 5+ years of research experience specializing in quantum simulation and machine learning for material developments, including catalysts for carbon capture and battery materials. Collaborated with scientists from universities, national labs and energy companies. Experienced in teaching, presentations and scientific publications. Strived to contribute cutting-edge discoveries through data-driven innovations.",
-    "//location": {
+    "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
     },
-    "//profiles": [
+    "profiles": [
       {
         "network": "Twitter",
         "username": "AlbertEinstein",
@@ -26,7 +26,6 @@
     {
       "institution": "University of California, Davis",
       "location": "California, USA",
-      "//url": "https://www.uzh.ch/",
       "area": "Chemical Engineering",
       "studyType": "PhD",
       "//startDate": "1905-01-01",
@@ -34,6 +33,28 @@
       "score": "10",
       "Thesis": ["Thesis: The kinetics and dynamics of CO2 adsorption in zeolite material under humid environment"],
       "Advisor": ["Advisor: Prof. Ambarish Kulkarni"],
+    },
+    {
+      "institution": "University of Washington (Seattle)",
+      "location": "Washington, USA",
+      "//url": "https://www.uzh.ch/",
+      "area": "Chemical Engineering",
+      "studyType": "Master",
+      "//startDate": "1905-01-01",
+      "endDate": "2020",
+      "score": "10",
+      "Thesis": ["Thesis: Pharmacological Regulation of Protein-Pol¬¬ymer Hydrogel Stiffness"],
+      "Advisor": ["Advisor: Prof. Cole DeForest"],
+    },
+    {
+      "institution": "National Taiwan University",
+      "location": "Taipei, Taiwan",
+      "//url": "https://www.uzh.ch/",
+      "area": "Chemical Engineering",
+      "studyType": "Bachelor",
+      "//startDate": "1905-01-01",
+      "endDate": "2017",
+      "score": "10",
     }
   ],
   "work": [
@@ -152,7 +173,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -176,26 +197,4 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
 }
