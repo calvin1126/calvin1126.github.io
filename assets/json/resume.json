@@ -1,12 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
+    "name": "Kun-Lin (Calvin) Wu",
+    # "label": "Scientist",
+    # "image": "",
     "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    # "phone": "(912) 123-4567",
+    # "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A research scientist with a passion in using data to solve real-world problems. 5+ years of research experience
+specializing in quantum simulation and machine learning for material developments, including catalysts for carbon
+capture and battery materials. Collaborated with scientists from universities, national labs and energy companies.
+Experienced in teaching, presentations and scientific publications. Strived to contribute cutting-edge discoveries through
+data-driven innovations.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
