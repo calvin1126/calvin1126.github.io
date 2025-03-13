@@ -1,20 +1,20 @@
 {
-  "Basics": {
+  "general information": {
     "name": "Kun-Lin (Calvin) Wu",
     "label": "Scientist",
-    "image": "",
+    "//image": "",
     "email": "klwu1126@gmail.com",
-    "phone": "",
-    "url": "",
+    "//phone": "",
+    "//url": "",
     "summary": "A research scientist with a passion in using data to solve real-world problems. 5+ years of research experience specializing in quantum simulation and machine learning for material developments, including catalysts for carbon capture and battery materials. Collaborated with scientists from universities, national labs and energy companies. Experienced in teaching, presentations and scientific publications. Strived to contribute cutting-edge discoveries through data-driven innovations.",
-    "location": {
+    "//location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
     },
-    "profiles": [
+    "//profiles": [
       {
         "network": "Twitter",
         "username": "AlbertEinstein",
@@ -22,6 +22,20 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of California, Davis",
+      "location": "California, USA",
+      "//url": "https://www.uzh.ch/",
+      "area": "Chemical Engineering",
+      "studyType": "PhD",
+      "//startDate": "1905-01-01",
+      "endDate": "2025",
+      "score": "10",
+      "Thesis": ["Thesis: The kinetics and dynamics of CO2 adsorption in zeolite material under humid environment"],
+      "Advisor": ["Advisor: Prof. Ambarish Kulkarni"],
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -43,19 +57,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
