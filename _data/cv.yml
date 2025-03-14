@@ -15,14 +15,14 @@
       institution: University of California, Davis, USA
       year: 2025
       description:
-        - Thesis title: The kinetics and dynamics of CO2 adsorption in zeolite material under humid environment
-        - Advisor: Ambarish Kulkarni
+        - "Thesis title: The kinetics and dynamics of CO2 adsorption in zeolite material under humid environment"
+        - "Advisor: Ambarish Kulkarni"
     - title: M.S. in Chemical Engineering
       institution: University of Washington, Seattle, USA
       year: 2020
       description:
-        - Thesis title: Pharmacological Regulation of Protein-Pol¬¬ymer Hydrogel Stiffness
-        - Advisor: Cole DeForest
+        - "Thesis title: Pharmacological Regulation of Protein-Pol¬¬ymer Hydrogel Stiffness"
+        - "Advisor: Cole DeForest"
     - title: B.S. in Chemical Engineering
       institution: National Taiwan University, Taipei, Taiwan
       year: 2017
@@ -35,19 +35,19 @@
       year: 2020 - 2025
       description:
         - Developed a theory and numerical implementation for modeling CO2 adsorption in catalyst under humid condition.
-        - Advisor: Ambarish Kulkarni
+        - "Advisor: Ambarish Kulkarni"
     - title: Research Assistant 
       institution: Quantum Simulations Group, Lawrence Livermore National Lab
       year: 2024
       description:
         - Developed models for electrode material to study lithium de-solvation process at the electrolyte-electrode interface.
-        - Advisor: Sabrina Wan
+        - "Advisor: Sabrina Wan"
     - title: Graduate Student Researcher 
       institution: University of Washington, Seattle
       year: 2018-2020
       description:
         - Employed protein engineering and molecular biology to design and synthesize biomaterials for drug delivery.
-        - Advisor: Cole DeForest
+        - "Advisor: Cole DeForest"
     - title: Military Service
       institution: National Taiwan Science Education Center, Taipei 
       year: 2017
