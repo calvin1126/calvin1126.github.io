@@ -2,96 +2,93 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Kun-Lin Wu
+    - name: Summary
+      value: A research scientist with a passion in using data to solve real-world problems. 5+ years of research experience specializing in quantum simulation and machine learning for material developments, including catalysts for carbon capture and battery materials. Collaborated with scientists from universities, national labs and energy companies. Experienced in teaching, presentations and scientific publications. Strived to contribute cutting-edge discoveries through data-driven innovations.
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Chemical Engineeering
+      institution: University of California, Davis, USA
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis title: The kinetics and dynamics of CO2 adsorption in zeolite material under humid environment
+        - Advisor: Ambarish Kulkarni
+    - title: M.S. in Chemical Engineering
+      institution: University of Washington, Seattle, USA
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis title: Pharmacological Regulation of Protein-Pol¬¬ymer Hydrogel Stiffness
+        - Advisor: Cole DeForest
+    - title: B.S. in Chemical Engineering
+      institution: National Taiwan University, Taipei, Taiwan
+      year: 2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Student Researcher
+      institution: University of California, Davis
+      year: 2020 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed a theory and numerical implementation for modeling CO2 adsorption in catalyst under humid condition.
+        - Advisor: Ambarish Kulkarni
+    - title: Research Assistant 
+      institution: Quantum Simulations Group, Lawrence Livermore National Lab
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed models for electrode material to study lithium de-solvation process at the electrolyte-electrode interface.
+        - Advisor: Sabrina Wan
+    - title: Graduate Student Researcher 
+      institution: University of Washington, Seattle
+      year: 2018-2020
       description:
+        - Employed protein engineering and molecular biology to design and synthesize biomaterials for drug delivery.
+        - Advisor: Cole DeForest
+    - title: Military Service
+      institution: National Taiwan Science Education Center, Taipei 
+      year: 2017
+      description:
+        - Mandatory military service
+    - title: Student Ambassador
+      institution: National Taiwan University, Taipei
+      year: 2015 - 2016
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Workshops
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: NERSC GPU Hackathon
+      year: 2024
+    - title: Deep Modeling for Molecular Simulation Workshop
+      year: 2022
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - RSC Advances Outstanding Student Paper Awards
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming and Software
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, Git/GitHub, Jupyter Notebook
+    - title: High Performance Computing (HPC)
       items:
-        - Description 1.
-        - Description 2.
+        - Shell script, parallel programming (MPI libraries)
+    - title: Machine learning
+      items:
+        - Scikit-learn, TensorFlow, PyTorch, MACE
+    - title: Scientific Computing
+      items:
+        - Density Functional Theory (DFT) Calculations (VASP, Quantum ESPRESSO)
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - I enjoy music, traveling, and cooking. 
